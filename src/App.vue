@@ -5,7 +5,6 @@
 </template>
 
 <script>
-// <img alt="Vue logo" src="./assets/logo.png">
 import TodoList from "./components/TodoList.vue";
 
 export default {

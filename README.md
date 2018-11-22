@@ -1,4 +1,4 @@
-# new-vue
+# Simple todo list
 
 ## Project setup
 ```
